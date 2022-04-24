@@ -8,7 +8,7 @@
     "url": "https://github.com/tomryb/graphql-with-react"
   },
   "scripts": {
-    "heroku-postbuild": "cd frontend && npm install && npm install --only=dev --no-shrinkwrap && npm run build",
+    "heroku-postbuild": "npm install --only=dev --no-shrinkwrap && npm run build",
     "start": "nodemon index.js --ignore client"
   },
   "author": "",
