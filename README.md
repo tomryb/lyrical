@@ -8,7 +8,7 @@ Aby odpalić apkę trzeba utworzyć konto mongodb.com. Następnie utworzyć plik
 Informacje skąd pobrać wartości do zmiennych znajdziemy w zakładce `Connect`.
 
 1. yarn install
-2. yarn start
+2. yarn dev
 
 Działanie apki:
 
